@@ -93,6 +93,11 @@ return {
 			},
 		},
 	},
+  
+  {
+    "github/copilot.vim",
+    event = "InsertEnter",
+  },
 
   -- {
   -- 	"nvim-treesitter/nvim-treesitter",
